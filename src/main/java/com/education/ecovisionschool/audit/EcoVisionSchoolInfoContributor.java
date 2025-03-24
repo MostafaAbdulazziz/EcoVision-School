@@ -18,6 +18,7 @@ public class EcoVisionSchoolInfoContributor implements InfoContributor {
         ecovisionMap.put("App Version", "1.0.0");
         ecovisionMap.put("Contact Email", "info@ecovisionschool.com");
         ecovisionMap.put("Contact Mobile", "+1(21) 673 4587");
+
         builder.withDetail("ecovisionschool-info", ecovisionMap);
     }
 
