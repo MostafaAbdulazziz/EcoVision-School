@@ -8,7 +8,7 @@ A robust school management system built with Spring Boot, designed to streamline
 ## Screenshots
 
 ### Homepage
-![Homepage](src/main/resources/static/assets/images/home_page.png)  
+![Homepage](src/main/resources/static/assets/images/home.png)  
 *The homepage with a welcoming message and admission call-to-action.*
 
 ### Login Page
