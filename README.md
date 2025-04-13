@@ -1,7 +1,7 @@
 
 # EcoVision School Management System
 
-![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green)
+![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.1-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green)
 
 A robust school management system built with Spring Boot, designed to streamline school operations through secure authentication, RESTful APIs, and an intuitive web interface. The application leverages Spring Core, Spring Boot, Spring Security, JPA/Hibernate, and Spring JDBC to provide a scalable and maintainable solution for managing school data, with features like user authentication, performance monitoring, and a user-friendly frontend.
 
