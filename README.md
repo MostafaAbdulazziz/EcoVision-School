@@ -8,15 +8,15 @@ A robust school management system built with Spring Boot, designed to streamline
 ## Screenshots
 
 ### Homepage
-![Homepage](images/home_page.png)  
+![Homepage](src/main/resources/static/assets/images/home_page.png)  
 *The homepage with a welcoming message and admission call-to-action.*
 
 ### Login Page
-![Login Page](images/login_page.png)  
+![Login Page](src/main/resources/static/assets/images/login_page.png)  
 *The login page for user authentication with a "New User?" link for registration.*
 
 ### Contact Page
-![Contact Page](images/contact_page.png)  
+![Contact Page](src/main/resources/static/assets/images/contact_page.png)  
 *The contact page with a form to send messages and school contact details.*
 
 ## Table of Contents
